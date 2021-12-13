@@ -12,6 +12,8 @@ namespace SqlSugar.IOC
         Oracle,
         PostgreSQL,
         Dm,
-        Kdbndp
+        Kdbndp,
+        Oscar,
+        Sql2K
     }
 }
